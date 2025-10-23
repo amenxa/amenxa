@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm Ameen shalabi from Palestine ,  <br> Computer System Engineer <br> CEO @ Prime Academy <br> Backend developer <br> competitive programmer
+ I'm Ameen shalabi from Palestine ,  <br> Computer System Engineer <br> Manager @ Prime Academy <br> Backend developer <br> competitive programmer
  <br> codeforces handel : amen.xa
 
 ## 🌐 Socials:
